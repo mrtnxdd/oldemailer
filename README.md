@@ -1,4 +1,4 @@
-# oldemailer
+# Nástroj Emailer a jeho zdrojové kódy
 
 Zdrojový kód Emaileru lze používat jakýmkoliv způsobem za dodržení těchto podmínek:
 
