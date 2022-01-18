@@ -1,0 +1,2 @@
+ErrorDocument 404 /pub.php
+ErrorDocument 403 /errors/403.php
