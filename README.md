@@ -8,3 +8,7 @@ Zdrojový kód Emaileru lze používat jakýmkoliv způsobem za dodržení těch
 Za dodržení těchto podmínek lze kód jakýmkoliv způsobem editovat, upravovovat a sdílet
 
 By mrtn_xdd
+
+--------------
+
+Tabulky v databázi lze vytvořit pomocí přiloženeho SQL souboru.
